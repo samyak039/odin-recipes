@@ -1,0 +1,24 @@
+body {
+  margin: 0.5in 4in 0.5in 4in;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+p,
+li {
+  text-align: justify;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+.recipe-list {
+  font-size: larger;
+}
